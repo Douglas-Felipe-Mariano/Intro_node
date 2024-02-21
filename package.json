@@ -11,11 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/Douglas-Felipe-Mariano/Intro_node.git"
   },
-  "keywords": ["NodeJS","Introdução"],
+  "keywords": [
+    "NodeJS",
+    "Introdução"
+  ],
   "author": "Douglas",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Douglas-Felipe-Mariano/Intro_node/issues"
   },
-  "homepage": "https://github.com/Douglas-Felipe-Mariano/Intro_node#readme"
+  "homepage": "https://github.com/Douglas-Felipe-Mariano/Intro_node#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
